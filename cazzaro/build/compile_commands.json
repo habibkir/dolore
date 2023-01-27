@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/diccu/projects/cazzaro/build",
+  "command": "/usr/lib64/ccache/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/diccu/projects/cazzaro/build -I/home/diccu/projects/cazzaro -I/home/diccu/projects/cazzaro/build/cazzaro_autogen/include -I/home/diccu/projects/cazzaro/src/subwindow -isystem /usr/include/qt5 -isystem /usr/include/qt5/QtWidgets -isystem /usr/include/qt5/QtGui -isystem /usr/include/qt5/QtCore -isystem /usr/lib64/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/cazzaro.dir/cazzaro_autogen/mocs_compilation.cpp.o -c /home/diccu/projects/cazzaro/build/cazzaro_autogen/mocs_compilation.cpp",
+  "file": "/home/diccu/projects/cazzaro/build/cazzaro_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/diccu/projects/cazzaro/build",
+  "command": "/usr/lib64/ccache/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/diccu/projects/cazzaro/build -I/home/diccu/projects/cazzaro -I/home/diccu/projects/cazzaro/build/cazzaro_autogen/include -I/home/diccu/projects/cazzaro/src/subwindow -isystem /usr/include/qt5 -isystem /usr/include/qt5/QtWidgets -isystem /usr/include/qt5/QtGui -isystem /usr/include/qt5/QtCore -isystem /usr/lib64/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/cazzaro.dir/src/main.cpp.o -c /home/diccu/projects/cazzaro/src/main.cpp",
+  "file": "/home/diccu/projects/cazzaro/src/main.cpp"
+},
+{
+  "directory": "/home/diccu/projects/cazzaro/build",
+  "command": "/usr/lib64/ccache/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/diccu/projects/cazzaro/build -I/home/diccu/projects/cazzaro -I/home/diccu/projects/cazzaro/build/cazzaro_autogen/include -I/home/diccu/projects/cazzaro/src/subwindow -isystem /usr/include/qt5 -isystem /usr/include/qt5/QtWidgets -isystem /usr/include/qt5/QtGui -isystem /usr/include/qt5/QtCore -isystem /usr/lib64/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/cazzaro.dir/src/cazzaro.cpp.o -c /home/diccu/projects/cazzaro/src/cazzaro.cpp",
+  "file": "/home/diccu/projects/cazzaro/src/cazzaro.cpp"
+},
+{
+  "directory": "/home/diccu/projects/cazzaro/build",
+  "command": "/usr/lib64/ccache/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/diccu/projects/cazzaro/build -I/home/diccu/projects/cazzaro -I/home/diccu/projects/cazzaro/build/cazzaro_autogen/include -I/home/diccu/projects/cazzaro/src/subwindow -isystem /usr/include/qt5 -isystem /usr/include/qt5/QtWidgets -isystem /usr/include/qt5/QtGui -isystem /usr/include/qt5/QtCore -isystem /usr/lib64/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/cazzaro.dir/src/subwindow/subwindow.cpp.o -c /home/diccu/projects/cazzaro/src/subwindow/subwindow.cpp",
+  "file": "/home/diccu/projects/cazzaro/src/subwindow/subwindow.cpp"
+}
+]

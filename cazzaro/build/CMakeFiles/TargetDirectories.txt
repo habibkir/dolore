@@ -1,0 +1,9 @@
+/home/diccu/projects/cazzaro/build/CMakeFiles/cazzaro.dir
+/home/diccu/projects/cazzaro/build/CMakeFiles/edit_cache.dir
+/home/diccu/projects/cazzaro/build/CMakeFiles/rebuild_cache.dir
+/home/diccu/projects/cazzaro/build/CMakeFiles/list_install_components.dir
+/home/diccu/projects/cazzaro/build/CMakeFiles/install.dir
+/home/diccu/projects/cazzaro/build/CMakeFiles/install/local.dir
+/home/diccu/projects/cazzaro/build/CMakeFiles/install/strip.dir
+/home/diccu/projects/cazzaro/build/CMakeFiles/cazzaro_autogen_timestamp_deps.dir
+/home/diccu/projects/cazzaro/build/CMakeFiles/cazzaro_autogen.dir
